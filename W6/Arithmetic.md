@@ -1,5 +1,6 @@
-## Flowchart
+d## Flowchart
 ![Arithmetic](https://github.com/suddy00/CISC_211_Assembly/assets/17439019/fa7a2c3e-e852-487c-9cde-469f1dd73973)
+Also, put lots of comments.
 
 ## Challenges
 - The size of the registry used for values can cause the program to skip program steps.
