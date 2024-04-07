@@ -1,3 +1,5 @@
+#Challenges
+- Because ascii doesn't count beyond 9, I had to make a second loop for numbers greater than 9 that would print two numbers
 
 ```Assembly
 section .text
