@@ -1,4 +1,6 @@
-
+# Challenges
+ - Every printed line requires a space allocation in edx.
+ - For the least opportunity for error, each print using a different output should have it's own edx
 
 ```assembly
 section .text
