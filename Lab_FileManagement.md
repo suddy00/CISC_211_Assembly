@@ -1,7 +1,7 @@
 # Challenges
-  Mostly finding documentation that explained well how Sys_sleek worked
-  The newline should be placed in the at the beginning of the content or at the end of the previous input
-  It's easy to overcomplicate this exercise if you have it do too many tasks.
+  -Mostly finding documentation that explained well how Sys_sleek worked.
+  -The newline should be placed in the at the beginning of the content or at the end of the previous input.
+  -It's easy to overcomplicate this exercise if you have it do too many tasks.
   
 ```assembly
 SECTION .data
